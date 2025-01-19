@@ -64,7 +64,7 @@ function Header({ data }) {
       </ul>
 
 
-      <h2>Your Cart</h2>
+      <h2>Your Cart.</h2>
       <ul>
         {cart.map((item, index) => (
           <li key={index}>
