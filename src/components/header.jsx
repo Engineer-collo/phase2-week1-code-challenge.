@@ -50,7 +50,7 @@ function Header({ data }) {
   return (
     <>
     <div id="main">
-      <h1>Simple E-Commerce Cart</h1>
+      <h1>Simple E-Commerce Cart.</h1>
       <h2>Items List</h2>
       <ul>
         {items.map((item) => (
